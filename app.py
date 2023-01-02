@@ -8,7 +8,7 @@ from db import models, database
 origins = [
     'http://localhost:5000',
     'http://localhost:3000',
-    'https://mbtipublish-server-production.up.railway.app'
+    'https://mbtibackserver-production.up.railway.app/'
 ]
 
 def include_router(app):
