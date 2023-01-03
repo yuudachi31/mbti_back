@@ -8,7 +8,7 @@ from db import models, database
 origins = [
     'http://localhost:5000',
     'http://localhost:3000',
-    'https://mbti-railway-react.vercel.app'
+    'https://universe-of-mbti.vercel.app'
 ]
 
 def include_router(app):
